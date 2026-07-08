@@ -242,3 +242,11 @@ Zstandard is dual-licensed under [BSD](LICENSE) OR [GPLv2](COPYING).
 The `dev` branch is the one where all contributions are merged before reaching `release`.
 Direct commit to `release` are not permitted.
 For more information, please read [CONTRIBUTING](CONTRIBUTING.md).
+
+
+## Our Research
+
+For more information, visit the [Schmiedmayer Lab GitHub organization](https://github.com/SchmiedmayerLab).
+
+![Stanford and Stanford Medicine logos](https://raw.githubusercontent.com/SchmiedmayerLab/.github/main/assets/stanford-footer-light.png#gh-light-mode-only)
+![Stanford and Stanford Medicine logos](https://raw.githubusercontent.com/SchmiedmayerLab/.github/main/assets/stanford-footer-dark.png#gh-dark-mode-only)
